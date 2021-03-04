@@ -1,0 +1,2 @@
+Predict the sale price of heavy equiment Bulldozers at auction based on it's usage, equipment type, and configuaration.
+Evaluate model using RMSLE (root mean squared log error) between the actual and predicted auction prices.
