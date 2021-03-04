@@ -1,0 +1,2 @@
+Binary Classification, Given data about passeneger can we predict whether they lived or died.
+Compare predictions accuracy for various classification Models (Ridge Classifier, Logestic regresser, random forest classifier, KNN classifier) 
